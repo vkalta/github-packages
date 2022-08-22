@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vkalta/github-packages/issues"
   },
-  "homepage": "https://github.com/vkalta/github-packages#readme"
+  "homepage": "https://github.com/vkalta/github-packages#readme",
+  "publishConfig": {
+    "vkalta:registry": "https://npm.pkg.github.com"
+  }
 }
