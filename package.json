@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/vkalta/github-packages#readme",
   "publishConfig": {
-    "vkalta:registry": "https://npm.pkg.github.com"
+    "@vkalta:registry": "https://npm.pkg.github.com"
   }
 }
